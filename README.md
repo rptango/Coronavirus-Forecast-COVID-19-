@@ -1,5 +1,7 @@
+<img src="./dataset/rptango_logo1.png" width="264" height="70" align="left"/>
+
 # Coronavirus-Forecast-COVID-19-
-Attempt to forecast 2019 Novel Coronavirus (2019-nCoV) confirmed and death cases.
+Novel Coronavirus (2019-nCoV) forecast for confirmed and death cases.
 
 <b>Dataset :</b> Novel Corona Virus 2019 Dataset <br>
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset <br>
